@@ -577,7 +577,6 @@ For in-depth information, please visit the dedicated [Benchmark page](./benchmar
 
 
 ## License
-
 This project is licensed under the AGPL-3.0 license. See the LICENSE file for details.
 
 ## Donation
